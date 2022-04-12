@@ -71,3 +71,7 @@
     * ```ln -s filename link name```
     ![soft link](https://user-images.githubusercontent.com/6279298/162903067-a272cf38-8d12-4a4b-84de-bb17677eaa46.png)
     * 怎么实现的??
+  
+  * 阅读文件
+    * less
+    * more（分页读取数据）
